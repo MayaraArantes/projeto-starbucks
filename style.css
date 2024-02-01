@@ -87,4 +87,5 @@ p {
    top: 0;
    left: 0;
    clip-path: circle(600px at right 800px);
+   padding-bottom: 950px;
 }
