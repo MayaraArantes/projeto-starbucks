@@ -14,7 +14,7 @@ Site finalizado na missão programador do zero 2.4 - Rodofo Mori.
 Utilizamos o site [Netlify](https://www.netlify.com) para hospedagem do código.
 - Acesse aqui o projeto: [Projeto Starbucks](https://mayaraarantes-starbucks.netlify.app/)
 
-<h3>Video: </h3> 
+<h3>🎥 Video: </h3> 
 
 https://github.com/MayaraArantes/projeto-starbucks/assets/140278244/39aeff08-f653-4101-b886-e77defa01559
 
